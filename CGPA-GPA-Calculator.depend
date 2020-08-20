@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1597731482 source:c:\users\default.desktop-e4gvif1\documents\c++ project\sinangag\src\gpacomputing.cpp
+	"GpaComputing.h"
+	<stdio.h>
+
+1597731613 c:\users\default.desktop-e4gvif1\documents\c++ project\sinangag\include\gpacomputing.h
+	"GpaComputing.h"
+
+1597730096 source:c:\users\default.desktop-e4gvif1\documents\c++ project\sinangag\src\reclist.cpp
+	"RecList.h"
+
+1597730096 c:\users\default.desktop-e4gvif1\documents\c++ project\sinangag\include\reclist.h
+
+1597730626 source:c:\users\default.desktop-e4gvif1\documents\c++ project\sinangag\src\studentrecord.cpp
+	"StudentRecord.h"
+
+1597730066 c:\users\default.desktop-e4gvif1\documents\c++ project\sinangag\include\studentrecord.h
+
+1597730652 source:c:\users\default.desktop-e4gvif1\documents\c++ project\sinangag\src\cgpacomputing.cpp
+	"CgpaComputing.h"
+	<iostream>
+
+1597731650 c:\users\default.desktop-e4gvif1\documents\c++ project\sinangag\include\cgpacomputing.h
+	"GpaComputing.h"
+
+1597888065 source:c:\users\default.desktop-e4gvif1\documents\cgpa-gpa-calculator\src\gpacomputing.cpp
+	"GpaComputing.h"
+	<stdio.h>
+
+1597731613 c:\users\default.desktop-e4gvif1\documents\cgpa-gpa-calculator\include\gpacomputing.h
+	"GpaComputing.h"
+
+1597730096 source:c:\users\default.desktop-e4gvif1\documents\cgpa-gpa-calculator\src\reclist.cpp
+	"RecList.h"
+
+1597730096 c:\users\default.desktop-e4gvif1\documents\cgpa-gpa-calculator\include\reclist.h
+
+1597730626 source:c:\users\default.desktop-e4gvif1\documents\cgpa-gpa-calculator\src\studentrecord.cpp
+	"StudentRecord.h"
+
+1597730066 c:\users\default.desktop-e4gvif1\documents\cgpa-gpa-calculator\include\studentrecord.h
+
+1597887421 source:c:\users\default.desktop-e4gvif1\documents\cgpa-gpa-calculator\main.cpp
+	<iostream>
+	"StudentRecord.h"
+	"GpaComputing.h"
+	"RecList.h"
+	"CgpaComputing.h"
+
+1597889040 c:\users\default.desktop-e4gvif1\documents\cgpa-gpa-calculator\include\cgpacomputing.h
+	"GpaComputing.h"
+
+1597889206 source:c:\users\default.desktop-e4gvif1\documents\cgpa-gpa-calculator\src\cgpacomputing.cpp
+	"CgpaComputing.h"
+	<iostream>
+
