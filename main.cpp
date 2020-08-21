@@ -9,6 +9,6 @@ using namespace std;
 int main()
 {
     CgpaComputing cgpa;
-    cgpa.totalScore(double scr[],int hrs[]);
+    cgpa.getHours();
     return 0;
 }

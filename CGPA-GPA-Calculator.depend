@@ -23,12 +23,13 @@
 1597731650 c:\users\default.desktop-e4gvif1\documents\c++ project\sinangag\include\cgpacomputing.h
 	"GpaComputing.h"
 
-1597888065 source:c:\users\default.desktop-e4gvif1\documents\cgpa-gpa-calculator\src\gpacomputing.cpp
+1597994916 source:c:\users\default.desktop-e4gvif1\documents\cgpa-gpa-calculator\src\gpacomputing.cpp
 	"GpaComputing.h"
-	<stdio.h>
+	<iostream>
+	<string>
 
-1597731613 c:\users\default.desktop-e4gvif1\documents\cgpa-gpa-calculator\include\gpacomputing.h
-	"GpaComputing.h"
+1597999106 c:\users\default.desktop-e4gvif1\documents\cgpa-gpa-calculator\include\gpacomputing.h
+	<string>
 
 1597730096 source:c:\users\default.desktop-e4gvif1\documents\cgpa-gpa-calculator\src\reclist.cpp
 	"RecList.h"
@@ -40,7 +41,7 @@
 
 1597730066 c:\users\default.desktop-e4gvif1\documents\cgpa-gpa-calculator\include\studentrecord.h
 
-1597887421 source:c:\users\default.desktop-e4gvif1\documents\cgpa-gpa-calculator\main.cpp
+1597993559 source:c:\users\default.desktop-e4gvif1\documents\cgpa-gpa-calculator\main.cpp
 	<iostream>
 	"StudentRecord.h"
 	"GpaComputing.h"
